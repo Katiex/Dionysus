@@ -1,0 +1,8 @@
+{
+"name": "Dionysus",
+"version":"1.0.0",
+"description": "A truth or dare game",
+"main": "bot.js",
+"author": "Kat",
+"dependencies": {}
+}
